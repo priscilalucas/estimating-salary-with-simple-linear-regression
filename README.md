@@ -18,6 +18,7 @@ The predict function was used on the test dataset.
 The model accuracy score is 99%.
 
 ![Alt text](./images/trainingsetplot.png)
+![Alt text](./images/testsetplot.png)
 
 From the smart parameters we get the the equation Salary = 2678.009 + 9312.575*Years of Experience
 So, if we want to predict the salary of a person with 15 years of experience based on this equation, we should pay an annual salary of about U$166,468 to this person.
