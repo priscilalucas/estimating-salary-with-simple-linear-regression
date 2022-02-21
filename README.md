@@ -11,10 +11,15 @@ Python 3.9 (IDE: Spyder)
 libraries: scikit learn, numpy and matplotlib
 
 ## Results & Illustrations
-The whole code can be viewed on the file slr-training.
 The class LinearRegression() in Python fitted the linear model on the training dataset. 
 The predict function was used on the test dataset.
+The model accuracy score is 99%.
 
 ![Alt text](./images/trainingsetplot.png)
 
+From the smart parameters we get the the equation Salary = 2678.009 + 9312.575*Years of Experience
+So, if we want to predict the salary of a person with 15 years of experience based on this equation, we should pay an annual salary of about U$166,468 to this person.
 
+## References
+The whole code can be viewed on the file slr-training.
+The codes were based on the course Machine Learning from A-Z: Hands-on Python & R in Data Science from Udemy.
