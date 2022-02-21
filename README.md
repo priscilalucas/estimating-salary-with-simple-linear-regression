@@ -11,8 +11,10 @@ Python 3.9 (IDE: Spyder)
 libraries: scikit learn, numpy and matplotlib
 
 ## Results & Illustrations
-The class LinearRegression() in Python fitted the linear model on the training dataset. 
+The class LinearRegression() in Python fitted the linear model on the training dataset.
+
 The predict function was used on the test dataset.
+
 The model accuracy score is 99%.
 
 ![Alt text](./images/trainingsetplot.png)
